@@ -30,7 +30,7 @@ En este flow solo debemos abrir la pestaña **Debug**
 ## Resultados
 La siguente imagen representa el resultado final de este flow.
 
-![]()
+![](https://github.com/DiegoJm10/Flow-1-2023/blob/main/Captura%20de%20pantalla%20de%202023-05-23%2021-16-02.png?raw=true)
 
 ## Evidencias
 
